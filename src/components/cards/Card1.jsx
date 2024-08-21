@@ -12,8 +12,8 @@ const Card1 = () => {
       <div className="p-6">
         <h2 className="text-2xl font-bold text-[#F6403F]">Card Title</h2>
         <p className="mt-2 text-gray-600">
-          This is a description of the card. Tailwind CSS utility classes make
-          it easy to style the card and ensure it looks great across different
+          This is a description of the card. Using Tailwind utility classes to make
+          it easy to style the card and also to ensure that it looks great across different
           screen sizes.
         </p>
       </div>
